@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base{
+
+  button {
+    @apply text-white border bg-orange-600 border-orange-600 
+    hover:bg-transparent hover:text-orange-600 rounded-xl
+  
+  }
+  
+}

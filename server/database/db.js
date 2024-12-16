@@ -4,7 +4,7 @@ import mongoose from "mongoose"
 const Connection =async () =>
 {
 
-const URl ='mongodb+srv://user:pass@cluster0.roxlw3y.mongodb.net/?retryWrites=true&w=majority '
+const URl ='mongodb+srv://soggsteven92:ou0vHDmlOWCetUXC@test1.gbdve.mongodb.net/?retryWrites=true&w=majority '
 
 
 try {

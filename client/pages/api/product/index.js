@@ -6,7 +6,6 @@ export default async function handler(req, res) { /*  we cant know that how long
    const {method} =req;
    
    
-
    if(method ==="GET"){
     try{                            /* we can calso pass a condition here {title:"pizza1"} */
     const products = await Product.find({})

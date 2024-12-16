@@ -8,19 +8,6 @@ const app = express();
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
 //API
 router.get('/product', async(req,res) => {
     try{

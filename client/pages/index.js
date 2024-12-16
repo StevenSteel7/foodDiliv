@@ -12,7 +12,7 @@ export default function Home({pizzaList}) {
       
       <Head>
         <title>Yeh pizza aayiyo ji</title>
-        <meta name="description" content="Best Pizza in town" />
+        <meta name="description" content="Best Pizza in town"/>
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <Featured/>
